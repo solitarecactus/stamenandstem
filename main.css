@@ -1,0 +1,24 @@
+.body {
+  font-family: arial, serif;
+  background-color: F0E9F2;
+}
+
+.container {
+  max-width:940px;
+}
+
+
+.nav {
+  display: inline;
+  background-color: white;
+  text-decoration: none;
+}
+
+
+.footer {
+  max-height: 400px;
+  text-align: center;
+  color: #7E7A80;
+  background-color: white;
+  padding: 5px;
+}
